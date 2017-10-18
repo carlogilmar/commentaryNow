@@ -13,5 +13,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "vertx3-eventbus-client": "^3.4.2",
+    "sockjs": "^0.3.4",
+    "skeleton": "^2.0.4",
+    "notyf": "^2.0.1"
+  }
 }
